@@ -13,6 +13,7 @@ Or
 
 ```
 git clone https://github.com/aaron-santos/peepal
+cd peepal
 chmod +x install.sh
 ./install.sh
 ```
